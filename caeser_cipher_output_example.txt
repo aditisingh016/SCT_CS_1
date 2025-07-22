@@ -1,0 +1,20 @@
+in case of encryption
+
+=== Caesar Cipher Program ===
+1. Encrypt a Message
+2. Decrypt a Message
+Choose an option (1 or 2): 1
+Enter your message: hello
+Enter the shift value (e.g., 3): 2
+Encrypted Message: jgnnq
+
+
+in case of decryption
+
+=== Caesar Cipher Program ===
+1. Encrypt a Message
+2. Decrypt a Message
+Choose an option (1 or 2): 2
+Enter your message: hello
+Enter the shift value (e.g., 3): 2
+Decrypted Message: fcjjm
